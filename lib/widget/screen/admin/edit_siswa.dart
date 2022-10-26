@@ -10,6 +10,6 @@ class EditSiswaScreen extends StatefulWidget {
 class _EditSiswaScreenState extends State<EditSiswaScreen> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return const Scaffold();
   }
 }
